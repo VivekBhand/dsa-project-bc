@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1604825715 source:d:\vivek coep data\practice dsa\dsa project\main.c
+	<stdlib.h>
+	<string.h>
+	"list.h"
+
+1604835688 source:d:\vivek coep data\practice dsa\dsa project\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<math.h>
+	"list.h"
+	"functions.h"
+
+1604841752 d:\vivek coep data\practice dsa\dsa project\list.h
+
+1604835668 d:\vivek coep data\practice dsa\dsa project\functions.h
+
+1604842129 source:d:\vivek coep data\practice dsa\dsa project\infix.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stack.h"
+	"charstack.h"
+	"operations.h"
+	<limits.h>
+
+1604835042 d:\vivek coep data\practice dsa\dsa project\stack.h
+	"list.h"
+
+1604841752 source:d:\vivek coep data\practice dsa\dsa project\list.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1604835042 source:d:\vivek coep data\practice dsa\dsa project\stack.c
+	<stdlib.h>
+	"stack.h"
+
+1604814904 d:\vivek coep data\practice dsa\dsa project\token.h
+	"stack.h"
+
+1604815170 source:d:\vivek coep data\practice dsa\dsa project\token.c
+
+1604835068 source:d:\vivek coep data\practice dsa\dsa project\charstack.c
+	"charstack.h"
+	<stdlib.h>
+
+1604836429 d:\vivek coep data\practice dsa\dsa project\charstack.h
+
+1604842129 d:\vivek coep data\practice dsa\dsa project\operations.h
+
+1604842546 source:d:\vivek coep data\practice dsa\dsa project\operations.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<math.h>
+	"list.h"
+	"operations.h"
+
